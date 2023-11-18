@@ -1,2 +1,2 @@
-# rock-paper-scissors
+# Rock-Paper-Scissors
 My Rock-Paper-Scissors Project
