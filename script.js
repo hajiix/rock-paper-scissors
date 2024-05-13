@@ -67,6 +67,7 @@ function game() {
   let reset = document.createElement("button");
   reset.textContent = "Reset";
   reset.addEventListener("click", handleReset);
+  reset.setAttribute("id", "reset")
   document.body.insertBefore(reset, document.body.firstChild);
 
   let ourGame = document.createElement("div");
